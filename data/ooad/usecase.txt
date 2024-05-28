@@ -1,0 +1,10 @@
+Trung: Đăng nhập
+hmtu: Xem gợi ý
+Trung: Tìm kiếm rạp phim + Tìm kiếm bộ phim
+Dương: Đặt vé xem phim
+nanhtu: Xem bản đồ đường đi
+Đạt: Thanh toán
+Đạt: Đánh giá rạp phim + Đánh giá bộ phim
+hmtu: Xem và xử lý đơn hàng
+Dương: Quản lý người dùng
+nanhtu: Quản lý rạp phim
